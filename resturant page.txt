@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<title>SOUTH INDIAN RESTURANT</title>
+</head>
+<body>
+    <form>
+        customername: <input type="text" name="customername"><br>
+        address:<input type="text" ><br>
+        contactnumber:<input type="number" number="contactnumber">
+<style>
+    table,th,td{
+        border:1px solid;
+    }
+</style>
+ <table>
+     <th>slno</th>
+     <th>menuname</th>
+     <th>price</th>
+     <th>quantity</th>
+     <tr>
+         <td>1</td>
+         <td>pannerdosa</td>
+         <td>70</td>
+         <td><input type="text" name""</td>
+         </tr>
+         <tr>
+             <td>2</td>
+             <td>lemon rice</td>
+             <td>120</td>
+             <td><input type="text" name""></td>
+             </tr>
+             <tr></tr><td>3</td>
+                <td>cold coffee</td>
+                <td>80</td>
+                <td><input type="text" name""></td>
+                </tr>
+  </th>
+ </table>
+<p>payment</p>
+<form>
+    <input type="button" name="upi">
+</form>
+</table>
+        
+    </form>
+</body>
+<head>
+</head>
+<body>
+<h1>Online HTML Editor</h1>
+<div>This is real time online HTML Editor</div>
+</body>
+</html>
